@@ -41,13 +41,13 @@ body {
   align-items: center;
   padding-bottom: 2%;
 }
-.another-blocks__One {
+.another-blocks__one {
   background-color: #b167dc;
   color: #b0de67;
   text-align: center;
   width: 50%;
 }
-.another-blocks__One-chance {
+.another-blocks__one__one-chance {
   background-color: #171b5f;
   color: #b0de67;
   text-align: center;
@@ -67,14 +67,14 @@ body {
   align-items: center;
   padding-bottom: 2%;
 }
-.another-blocks2__One {
+.another-blocks2__one {
   background-color: #4747e7;
   color: #b0de67;
   text-align: center;
   width: 50%;
 }
-.another-blocks2__One-chance {
-  background-color: yellow;
+.another-blocks2__one__one-chance {
+  background-color: rgb(217, 217, 65);
   color: black;
   text-align: center;
 }/*# sourceMappingURL=style_predprocessor.css.map */
