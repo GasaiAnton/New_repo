@@ -1,0 +1,13 @@
+.parent-styles {
+  background-color: rgb(88, 88, 209);
+  height: 300px;
+  font-weight: bold;
+}
+.parent-styles__title {
+  background-color: #de6767;
+  color: rgb(88, 88, 209);
+}
+.parent-styles__title-subtitle {
+  background-color: #543131;
+  color: rgb(88, 88, 209);
+}/*# sourceMappingURL=style_predprocessor.css.map */
